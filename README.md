@@ -43,6 +43,8 @@
 **Comportamientos** registrar consulta, consultar historial, generar reporte.
 
 ---
+## Actividad 2
+
 | Programacion estreucturada | Programacion orientada a objetos |
 |----------------------------|----------------------------------|
 |Se centra en funciones y procedimientos que ejecutan instrucciones paso a paso| Se centra en objetos que combinan datos (atributos) y acciones (métodos)|
