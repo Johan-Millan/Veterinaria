@@ -37,3 +37,9 @@
 ---
 ### **Objeto 5 Consulta**
 **¿Que es?:** Es la atención médica realizada por el veterinario a una mascota durante una cita.
+
+**Caracteristicas:** Diagnostico, tratamiento, observaciones, mascota, dueño, cita.
+
+**Comportamientos** registrar consulta, consultar historial, generar reporte.
+
+---
