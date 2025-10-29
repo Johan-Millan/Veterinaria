@@ -43,3 +43,11 @@
 **Comportamientos** registrar consulta, consultar historial, generar reporte.
 
 ---
+| Programacion estreucturada | Programacion orientada a objetos |
+|----------------------------|----------------------------------|
+|Se centra en funciones y procedimientos que ejecutan instrucciones paso a paso| Se centra en objetos que combinan datos (atributos) y acciones (métodos)|
+|La unidad basica es La función o procedimiento| La unidad basica son la clase y el objeto|
+|Se piensa como una secuencia de instrucciones que el computador debe seguir| Se piensa como un conjunto de entidades (objetos) que interactúan entre sí|
+|Difícil de mantener cuando el programa crece, ya que todo está muy conectado| Más fácil de mantener y ampliar, porque cada objeto tiene una responsabilidad clara|
+|El lenguaje usado es C, Pascal, BASIC| El lenguaje usado es Java, Python, C++, Ruby|
+|Se basa en "qué pasos seguir y cómo hacerlo"| Se basa en "quien hace las cosas y que objeto tiene la responsabilidad"| 
